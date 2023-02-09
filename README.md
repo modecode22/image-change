@@ -2,7 +2,7 @@
 ## Image Compression App in React
 Welcome to our Image Compression App!
 
-###Using the Image Compression App is simple. Follow these steps:
+### Using the Image Compression App is simple. Follow these steps:
 Select the image you wish to compress by clicking the "Select Image" button.
 Adjust the compression level to suit your needs using the slider.
 Preview the original and compressed images side by side.
